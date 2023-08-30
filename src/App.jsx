@@ -7,7 +7,6 @@ import { UploadForm } from './components/UploadForm'
 function App() {
 
   const [selctedImg, setSelectedImg] = useState(null)
-
   return (
     <div className='App'>
       <Title />
